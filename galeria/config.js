@@ -20,7 +20,7 @@ window.JL_CONFIG = {
     {
       id: "casamento",
       email: "casamento@cliente.com",
-      password: "12345",
+      password: "1009",
       type: "Casamento",
       title: "Leonice & Euclides",
       date: "10 de setembro de 2026",
@@ -262,8 +262,8 @@ window.JL_CONFIG = {
 
     {
       id: "aniversario",
-      email: "aniversario@cliente.com",
-      password: "54321",
+      email: "leticiaduarte.o@outlook.com",
+      password: "0509",
       type: "Aniversário",
       title: "Conrado",
       date: "5 de setembro de 2026",

@@ -62,6 +62,30 @@ function videos(c){
   return `<section class="film-section"><div class="film-media"><video controls preload="metadata"><source src="${esc(v.file)}"></video></div><div class="film-copy"><div class="eyebrow">Seu filme</div><h2>Reviva esse momento.</h2><p>Um pedacinho desse dia para assistir com calma, sentir tudo de novo e guardar para sempre.</p><div class="film-actions"><button class="btn dark" id="playFilm">▶ Assistir ao filme</button><a class="btn soft" href="${esc(v.file)}" download>↓ Baixar vídeo</a></div></div></section>`;
 }
 
+function configurarAutoplayVideos() {
+  const videos = document.querySelectorAll(".film-video video");
+
+  const observer = new IntersectionObserver((entries) => {
+    entries.forEach((entry) => {
+      const video = entry.target;
+
+      if (entry.isIntersecting) {
+        video.muted = true;
+
+        video.play().catch(() => {
+          console.log("Autoplay bloqueado pelo navegador.");
+        });
+      } else {
+        video.pause();
+      }
+    });
+  }, {
+    threshold: 0.55
+  });
+
+  videos.forEach((video) => observer.observe(video));
+}
+
 function renderPhotoBatch(c){
   const grid = document.getElementById('photoGrid');
   const controls = document.getElementById('galleryControls');
@@ -130,3 +154,5 @@ document.addEventListener('keydown', e => { if(!document.getElementById('lightbo
 const saved = sessionStorage.getItem('jl_client');
 const found = C.clients.find(c => c.id === saved);
 found ? show(found) : login();
+
+configurarAutoplayVideos();

@@ -515,7 +515,8 @@ window.JL_CONFIG = {
   {
     title: "Vídeo do aniversário",
     description: "Um pouquinho desse dia tão especial para guardar para sempre.",
-    file: "https://drive.google.com/file/d/10GjpkqP9WfL8CFkzknfDnhmGVRY3RDvt/view?usp=drivesdk"
+    file: "https://drive.google.com/file/d/10GjpkqP9WfL8CFkzknfDnhmGVRY3RDvt/view?usp=drivesdk",
+    autoplay: true
   }
 ]
     }

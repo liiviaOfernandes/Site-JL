@@ -519,6 +519,50 @@ window.JL_CONFIG = {
     autoplay: true
   }
 ]
-    }
+    },
+
+    {
+  id: "pre-wedding-mariana-matheus",
+  email: "rezendemariana45@gmail.com",
+  password: "1187",
+
+  type: "Pré-wedding",
+  title: "Mariana & Matheus",
+  date: "12 de setembro de 2026",
+
+  message: "Um capítulo antes do sim, guardado para sempre.",
+
+  driveFolder: "https://drive.google.com/drive/folders/1qvvj5ttZx8SZ6S1luWAyYlxXq9bi_fub?usp=sharing",
+
+  cover: "https://drive.google.com/thumbnail?id=1Drcw0lclKHyZcG0L-zq7zwdq8Ztf2lnf&sz=w2400",
+
+  photos: [
+    { name:"IMG_0953.jpg", src:"https://drive.google.com/thumbnail?id=1O-XqwUQs18nNq7W2ft_ASibAYB_kKv4m&sz=w1600", full:"https://drive.google.com/thumbnail?id=1O-XqwUQs18nNq7W2ft_ASibAYB_kKv4m&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1O-XqwUQs18nNq7W2ft_ASibAYB_kKv4m" },
+    { name:"IMG_0955.jpg", src:"https://drive.google.com/thumbnail?id=1eQQbVYu4QFPewc_7NjmDlxEzDShaIr7G&sz=w1600", full:"https://drive.google.com/thumbnail?id=1eQQbVYu4QFPewc_7NjmDlxEzDShaIr7G&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1eQQbVYu4QFPewc_7NjmDlxEzDShaIr7G" },
+    { name:"IMG_0966.jpg", src:"https://drive.google.com/thumbnail?id=1HZsmfYu-ffl_CXHEm4wsBox7D8vOVkQe&sz=w1600", full:"https://drive.google.com/thumbnail?id=1HZsmfYu-ffl_CXHEm4wsBox7D8vOVkQe&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1HZsmfYu-ffl_CXHEm4wsBox7D8vOVkQe" },
+    { name:"IMG_0981.jpg", src:"https://drive.google.com/thumbnail?id=1LbuqZ67AJXDoG7bc2R-HwTPFdtu4helc&sz=w1600", full:"https://drive.google.com/thumbnail?id=1LbuqZ67AJXDoG7bc2R-HwTPFdtu4helc&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1LbuqZ67AJXDoG7bc2R-HwTPFdtu4helc" },
+    { name:"IMG_0986.jpg", src:"https://drive.google.com/thumbnail?id=1_VS_-PJvTYgK1_A1veJdBA2SmEUvgNGF&sz=w1600", full:"https://drive.google.com/thumbnail?id=1_VS_-PJvTYgK1_A1veJdBA2SmEUvgNGF&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1_VS_-PJvTYgK1_A1veJdBA2SmEUvgNGF" },
+    { name:"IMG_0993.jpg", src:"https://drive.google.com/thumbnail?id=1_pfuu5hPaaMpyG7bNA6yPPJLTUeKfAZg&sz=w1600", full:"https://drive.google.com/thumbnail?id=1_pfuu5hPaaMpyG7bNA6yPPJLTUeKfAZg&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1_pfuu5hPaaMpyG7bNA6yPPJLTUeKfAZg" },
+    { name:"IMG_1010.jpg", src:"https://drive.google.com/thumbnail?id=1gkSaWP_hzjykTwj-FewP4yjUYA7NDLGt&sz=w1600", full:"https://drive.google.com/thumbnail?id=1gkSaWP_hzjykTwj-FewP4yjUYA7NDLGt&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1gkSaWP_hzjykTwj-FewP4yjUYA7NDLGt" },
+    { name:"IMG_1019.jpg", src:"https://drive.google.com/thumbnail?id=19IrWCXluWULD8CvgK3tZ-g8QgM4mqVsO&sz=w1600", full:"https://drive.google.com/thumbnail?id=19IrWCXluWULD8CvgK3tZ-g8QgM4mqVsO&sz=w2400", download:"https://drive.google.com/uc?export=download&id=19IrWCXluWULD8CvgK3tZ-g8QgM4mqVsO" },
+    { name:"IMG_1204.jpg", src:"https://drive.google.com/thumbnail?id=1fTX0eOZ_FGZ5I9UfC-S-byt2F5m-MH0R&sz=w1600", full:"https://drive.google.com/thumbnail?id=1fTX0eOZ_FGZ5I9UfC-S-byt2F5m-MH0R&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1fTX0eOZ_FGZ5I9UfC-S-byt2F5m-MH0R" },
+    { name:"IMG_1281.jpg", src:"https://drive.google.com/thumbnail?id=1_8oKNt4EpZSHzJPVBaGwx0T3NTlkYSAM&sz=w1600", full:"https://drive.google.com/thumbnail?id=1_8oKNt4EpZSHzJPVBaGwx0T3NTlkYSAM&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1_8oKNt4EpZSHzJPVBaGwx0T3NTlkYSAM" },
+    { name:"IMG_1306.jpg", src:"https://drive.google.com/thumbnail?id=11Z5ohddmxqnWH-69F2O8l6EJDy33guuI&sz=w1600", full:"https://drive.google.com/thumbnail?id=11Z5ohddmxqnWH-69F2O8l6EJDy33guuI&sz=w2400", download:"https://drive.google.com/uc?export=download&id=11Z5ohddmxqnWH-69F2O8l6EJDy33guuI" },
+    { name:"IMG_1343.jpg", src:"https://drive.google.com/thumbnail?id=1BNzbhdbotjFV6sEXCKJDQA9h0wP99PpR&sz=w1600", full:"https://drive.google.com/thumbnail?id=1BNzbhdbotjFV6sEXCKJDQA9h0wP99PpR&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1BNzbhdbotjFV6sEXCKJDQA9h0wP99PpR" },
+    { name:"IMG_1372.jpg", src:"https://drive.google.com/thumbnail?id=173jqJiNS1zPIau6m4yCZq733fIbAUyJB&sz=w1600", full:"https://drive.google.com/thumbnail?id=173jqJiNS1zPIau6m4yCZq733fIbAUyJB&sz=w2400", download:"https://drive.google.com/uc?export=download&id=173jqJiNS1zPIau6m4yCZq733fIbAUyJB" },
+    { name:"IMG_1401.jpg", src:"https://drive.google.com/thumbnail?id=1BXtKXbGpI-MKGevbq7iaqKVEWJZWEe-_&sz=w1600", full:"https://drive.google.com/thumbnail?id=1BXtKXbGpI-MKGevbq7iaqKVEWJZWEe-_&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1BXtKXbGpI-MKGevbq7iaqKVEWJZWEe-_" },
+    { name:"IMG_1415.jpg", src:"https://drive.google.com/thumbnail?id=11p1wmMWFKDAJMI8dbYssEhNVjqU33baV&sz=w1600", full:"https://drive.google.com/thumbnail?id=11p1wmMWFKDAJMI8dbYssEhNVjqU33baV&sz=w2400", download:"https://drive.google.com/uc?export=download&id=11p1wmMWFKDAJMI8dbYssEhNVjqU33baV" },
+    { name:"IMG_1420.jpg", src:"https://drive.google.com/thumbnail?id=1m9-RKUlrMcfrLv-ef-Kc3cbd9XTvctxg&sz=w1600", full:"https://drive.google.com/thumbnail?id=1m9-RKUlrMcfrLv-ef-Kc3cbd9XTvctxg&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1m9-RKUlrMcfrLv-ef-Kc3cbd9XTvctxg" },
+    { name:"IMG_1430.jpg", src:"https://drive.google.com/thumbnail?id=1V-Tji3g4dPvGnpVJGd9iFEVpp0TZnD7M&sz=w1600", full:"https://drive.google.com/thumbnail?id=1V-Tji3g4dPvGnpVJGd9iFEVpp0TZnD7M&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1V-Tji3g4dPvGnpVJGd9iFEVpp0TZnD7M" },
+    { name:"IMG_1564.jpg", src:"https://drive.google.com/thumbnail?id=1HPLmj6r94LjXm06c_9yK6ztnPZ-GYUGg&sz=w1600", full:"https://drive.google.com/thumbnail?id=1HPLmj6r94LjXm06c_9yK6ztnPZ-GYUGg&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1HPLmj6r94LjXm06c_9yK6ztnPZ-GYUGg" },
+    { name:"IMG_1589.jpg", src:"https://drive.google.com/thumbnail?id=1vuaKctdJObZxu94W0_ooH1yOqiALSuwJ&sz=w1600", full:"https://drive.google.com/thumbnail?id=1vuaKctdJObZxu94W0_ooH1yOqiALSuwJ&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1vuaKctdJObZxu94W0_ooH1yOqiALSuwJ" },
+    { name:"IMG_1591.jpg", src:"https://drive.google.com/thumbnail?id=1QhLjqkJCZtEHtZtv4yhKP5-IRXi_nlCB&sz=w1600", full:"https://drive.google.com/thumbnail?id=1QhLjqkJCZtEHtZtv4yhKP5-IRXi_nlCB&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1QhLjqkJCZtEHtZtv4yhKP5-IRXi_nlCB" },
+    { name:"IMG_1644.jpg", src:"https://drive.google.com/thumbnail?id=1EHmvmPspVJKlFIZEQrmfgQ4_hsm_0dx_&sz=w1600", full:"https://drive.google.com/thumbnail?id=1EHmvmPspVJKlFIZEQrmfgQ4_hsm_0dx_&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1EHmvmPspVJKlFIZEQrmfgQ4_hsm_0dx_" },
+    { name:"IMG_1673.jpg", src:"https://drive.google.com/thumbnail?id=19Qq8oYRFV5se5cmPHEHFyzQPI6iRbbKP&sz=w1600", full:"https://drive.google.com/thumbnail?id=19Qq8oYRFV5se5cmPHEHFyzQPI6iRbbKP&sz=w2400", download:"https://drive.google.com/uc?export=download&id=19Qq8oYRFV5se5cmPHEHFyzQPI6iRbbKP" },
+    { name:"IMG_1676.jpg", src:"https://drive.google.com/thumbnail?id=1Drcw0lclKHyZcG0L-zq7zwdq8Ztf2lnf&sz=w1600", full:"https://drive.google.com/thumbnail?id=1Drcw0lclKHyZcG0L-zq7zwdq8Ztf2lnf&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1Drcw0lclKHyZcG0L-zq7zwdq8Ztf2lnf" },
+    { name:"IMG_1709.jpg", src:"https://drive.google.com/thumbnail?id=1VykgBAFBU4vXrTVMno8Qubdws-_cSPmp&sz=w1600", full:"https://drive.google.com/thumbnail?id=1VykgBAFBU4vXrTVMno8Qubdws-_cSPmp&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1VykgBAFBU4vXrTVMno8Qubdws-_cSPmp" },
+    { name:"IMG_1723.jpg", src:"https://drive.google.com/thumbnail?id=1roC621K6L3mjeqQRbaMkKV097R6BnFB2&sz=w1600", full:"https://drive.google.com/thumbnail?id=1roC621K6L3mjeqQRbaMkKV097R6BnFB2&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1roC621K6L3mjeqQRbaMkKV097R6BnFB2" }
+  ]
+}
   ]
 };

@@ -1,0 +1,20 @@
+# Git antigo pesado
+git-backup-antigo/
+
+# Vídeos ficam no Google Drive
+*.mov
+*.mp4
+*.avi
+*.mkv
+
+# Compactados
+*.zip
+*.rar
+*.7z
+
+# RAW
+*.CR2
+*.CR3
+*.DNG
+*.ARW
+*.NEF

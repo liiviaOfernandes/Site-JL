@@ -19,7 +19,7 @@ window.JL_CONFIG = {
   clients: [
     {
       id: "casamento",
-      email: "casamento@cliente.com",
+      email: "leonice_100@yahoo.com.br",
       password: "1009",
       type: "Casamento",
       title: "Leonice & Euclides",

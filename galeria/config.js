@@ -525,7 +525,6 @@ window.JL_CONFIG = {
   id: "pre-wedding-mariana-matheus",
   email: "rezendemariana45@gmail.com",
   password: "1187",
-
   type: "Pré-wedding",
   title: "Mariana & Matheus",
   date: "12 de setembro de 2026",
@@ -562,7 +561,9 @@ window.JL_CONFIG = {
     { name:"IMG_1676.jpg", src:"https://drive.google.com/thumbnail?id=1Drcw0lclKHyZcG0L-zq7zwdq8Ztf2lnf&sz=w1600", full:"https://drive.google.com/thumbnail?id=1Drcw0lclKHyZcG0L-zq7zwdq8Ztf2lnf&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1Drcw0lclKHyZcG0L-zq7zwdq8Ztf2lnf" },
     { name:"IMG_1709.jpg", src:"https://drive.google.com/thumbnail?id=1VykgBAFBU4vXrTVMno8Qubdws-_cSPmp&sz=w1600", full:"https://drive.google.com/thumbnail?id=1VykgBAFBU4vXrTVMno8Qubdws-_cSPmp&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1VykgBAFBU4vXrTVMno8Qubdws-_cSPmp" },
     { name:"IMG_1723.jpg", src:"https://drive.google.com/thumbnail?id=1roC621K6L3mjeqQRbaMkKV097R6BnFB2&sz=w1600", full:"https://drive.google.com/thumbnail?id=1roC621K6L3mjeqQRbaMkKV097R6BnFB2&sz=w2400", download:"https://drive.google.com/uc?export=download&id=1roC621K6L3mjeqQRbaMkKV097R6BnFB2" }
-  ]
+  ],
+
+  videos: []
 }
   ]
 };
